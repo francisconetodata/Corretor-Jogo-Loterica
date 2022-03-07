@@ -1,1 +1,1 @@
-# loteria_jogo
+# Apenas um simples corretor de loteria (jogos no CSV).
